@@ -14,7 +14,7 @@
 
 ## دروس کارشناسی
 
-[1322108_01 نظریه زبانها و ماشین ها 3](https://github.com/BaharbSalmas/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
+[1115157_01 & 02 نظريه زبانهاوماشين ها 3](https://github.com/BaharbSalmas/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
 <br>
 [1322110_01 طراحي واسط كاربر 3](https://github.com/BaharbSalmas/PNU_3991_AR/tree/main/UserInterfaceDesign)
 
