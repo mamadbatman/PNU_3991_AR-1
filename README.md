@@ -14,9 +14,9 @@
 
 ## دروس کارشناسی
 
-[1115157_01 & 02 نظريه زبانهاوماشين ها 3](https://github.com/BaharbSalmas/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
+[1115157_01 & 02 نظريه زبانهاوماشين ها 3](https://github.com/ParastooTayebi/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
 <br>
-[1322110_01 طراحي واسط كاربر 3](https://github.com/BaharbSalmas/PNU_3991_AR/tree/main/UserInterfaceDesign)
+[1322110_01 طراحي واسط كاربر 3](https://github.com/ParastooTayebi/PNU_3991_AR/tree/main/UserInterfaceDesign)
 
 --------------
 ## روز و ساعت ارائه دروس
