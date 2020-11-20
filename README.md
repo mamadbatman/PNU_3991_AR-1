@@ -7,7 +7,7 @@
 
 - [رزومه](https://baharbsalmas.github.io/)
 
-- [SOP](https://baharbsalmas.github.io/SOP/)
+- [SOP](https://parastootayebi.github.io/SOP/)
 
 ------------------
 ## Winter Semester Courses 1399/2020
