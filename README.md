@@ -5,7 +5,7 @@
 ---
 - [حساب گیت هاب](https://github.com/parastootayebi/)
 
-- [رزومه](https://baharbsalmas.github.io/)
+- [رزومه](https://parastootayebi.github.io/ParatooTayebi.github.io/)
 
 - [SOP](https://parastootayebi.github.io/SOP/)
 
